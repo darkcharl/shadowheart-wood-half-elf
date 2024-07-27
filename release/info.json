@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "WoodHalfElfShadowheart",
+      "UUID": "1ceec89e-dad5-4100-8bb0-1014fbede7e6",
+      "folderName": "WoodHalfElfShadowheart",
+      "Description": "Changes Shadowheart to be a Wood Half Elf Light Cleric with Acolyte background.",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
