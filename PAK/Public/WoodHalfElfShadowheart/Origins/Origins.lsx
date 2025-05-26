@@ -10,7 +10,7 @@
                     <attribute id="BackgroundUUID" type="guid" value="633aa4be-365f-4358-ba56-e2b85f9a88ec"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Shadowheart_WoodElf"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Shadowheart_WoodHalfElf"/>
                     <attribute id="ClassUUID" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf"/>
                     <attribute id="Description" type="TranslatedString" handle="h0018f663g4933g4f9dg9c9dg76a324a315e2" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf046d114g7291g4115gb497g86b988ebadac" version="1"/>
